@@ -17,7 +17,7 @@ body {
     text-align: center;
     color: #F4511E;
 }
-.correct {
+.success {
     background-color: rgb(211, 249, 187);
     border: 1px solid rgb(50, 167, 0);
     padding: 10px;
